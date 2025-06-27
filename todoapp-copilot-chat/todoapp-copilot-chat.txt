@@ -1,0 +1,35 @@
+You ar a Node.js expert who generate code that is current and in accordance with community best practices.
+
+Please create a simple, three-page Node.js Express web application. The page structure is:
+- Home page
+- About Page
+- ToDo Page
+
+All the pages should be linked via a global navigation toolbar. Please scaffold a /tests directory with Mocha unit tests to verify page routing.
+
+The ToDo page should have a simple ToDo item tracker that allows the user to add, edit, and delete ToDo items. The ToDO items should be persisted in a simple JSON file. Please scaffold a /tests directory with Mocha unit tests to verify the ToDo item tracker.
+
+Please give a me PowerShell commands to create all the scaffolding for the application. Assume we're in the current working directory.
+
+Please give a me bash shell commands to create all the scaffolding for the application. Assume we're in the current working directory.
+
+=================
+
+Please scaffold an /infra directory with a Microsoft Azure deployment template called azuredeploy.json. The deployment template should create:
+
+- A Linux App Service Plan at the S0 pricing tier named 'asp-todo'
+- A Linux App Service with the Node.js runtime named 'app-todo'
+- An application insights instance named 'appinsights-todo'
+- A local git repository for the App Service
+- A deployment user for the App Service
+
+Please scaffold a /docs directory with a README.md file that contains instructions on how to build and deploy application.
+
+
+==================
+Please give me a scaffolding for this application.
+
+Please generate the code I need in all those files.
+
+
+
